@@ -1,0 +1,20 @@
+# Dependências para Dashboard Web CRM CCAMP
+
+# Framework Web
+Flask==3.0.0
+Flask-CORS==4.0.0
+
+# Banco de Dados
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy==3.1.1
+
+# Cache e Performance
+Flask-Caching==2.1.0
+
+# Utilitários
+python-dotenv==1.0.0
+Werkzeug==3.0.1
+
+# Desenvolvimento (opcional)
+Flask-DebugToolbar==0.13.1
