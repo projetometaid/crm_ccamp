@@ -212,3 +212,108 @@ O arquivo `GestaoRenovacao (1).xls` apresenta uma **lógica clara de renovação
 **📅 Data:** 24/08/2025  
 **👨‍💻 Desenvolvido por:** Augment Agent  
 **🎯 Status:** Análise Estrutural Concluída ✅
+
+
+# 📊 Estrutura Completa da Tabela RENOVACAO_GERAL
+
+## 📋 Resumo
+- **Total de campos:** 25
+- **Tabela:** `renovacao_geral`
+- **Banco:** `crm_ccamp`
+
+## 📊 Distribuição por Tipos
+
+- **bigint:** 2 campos
+- **character varying:** 16 campos
+- **integer:** 2 campos
+- **text:** 2 campos
+- **timestamp without time zone:** 3 campos
+
+## 📋 Lista Completa dos Campos
+
+| # | Campo | Tipo | Tamanho | NULL | Default |
+|---|-------|------|---------|------|---------|
+| 1 | `id` | integer | 32 | ❌ | nextval('renovacao_g |
+| 2 | `razao_social` | character varying | 500 | ✅ | - |
+| 3 | `cpfcnpj` | character varying | 20 | ✅ | - |
+| 4 | `telefone` | character varying | 20 | ✅ | - |
+| 5 | `e_mail` | character varying | 255 | ✅ | - |
+| 6 | `produto` | character varying | 255 | ✅ | - |
+| 7 | `nome_titular` | character varying | 500 | ✅ | - |
+| 8 | `data_inicio_validade` | timestamp without time zone | - | ✅ | - |
+| 9 | `data_fim_validade` | timestamp without time zone | - | ✅ | - |
+| 10 | `prazo` | integer | 32 | ✅ | - |
+| 11 | `ar_solicitacao` | character varying | 255 | ✅ | - |
+| 12 | `ar_emissao` | character varying | 255 | ✅ | - |
+| 13 | `local_de_atendimento` | character varying | 500 | ✅ | - |
+| 14 | `endereco_do_local_de_atendimento` | text | - | ✅ | - |
+| 15 | `protocolo` | bigint | 64 | ✅ | - |
+| 16 | `status_acao` | character varying | 255 | ✅ | - |
+| 17 | `status_certificado` | character varying | 255 | ✅ | - |
+| 18 | `nome_contador_parceiro` | character varying | 500 | ✅ | - |
+| 19 | `cpf_contador_parceiro` | character varying | 20 | ✅ | - |
+| 20 | `protocolo_renovacao` | bigint | 64 | ✅ | - |
+| 21 | `status_protocolo_renovacao` | character varying | 255 | ✅ | - |
+| 22 | `nome_da_ar_protocolo_renovacao` | character varying | 500 | ✅ | - |
+| 23 | `produto_protocolo_renovacao` | character varying | 255 | ✅ | - |
+| 24 | `data_ultima_atualizacao` | timestamp without time zone | - | ✅ | - |
+| 25 | `observacao_ultima_atualizacao` | text | - | ✅ | - |
+
+## 🏷️ Campos por Categoria
+
+### 🔑 Identificação (8 campos)
+- `id`
+- `data_inicio_validade`
+- `data_fim_validade`
+- `protocolo`
+- `protocolo_renovacao`
+- `status_protocolo_renovacao`
+- `nome_da_ar_protocolo_renovacao`
+- `produto_protocolo_renovacao`
+
+### 👤 Dados Pessoais (6 campos)
+- `cpfcnpj`
+- `telefone`
+- `nome_titular`
+- `nome_contador_parceiro`
+- `cpf_contador_parceiro`
+- `nome_da_ar_protocolo_renovacao`
+
+### 📅 Datas (3 campos)
+- `data_inicio_validade`
+- `data_fim_validade`
+- `data_ultima_atualizacao`
+
+### 💰 Valores (0 campos)
+
+### 📊 Status e Controle (3 campos)
+- `status_acao`
+- `status_certificado`
+- `status_protocolo_renovacao`
+
+### 🔄 Renovação (6 campos)
+- `data_inicio_validade`
+- `data_fim_validade`
+- `protocolo_renovacao`
+- `status_protocolo_renovacao`
+- `nome_da_ar_protocolo_renovacao`
+- `produto_protocolo_renovacao`
+
+### 📋 Outros (9 campos)
+- `razao_social`
+- `e_mail`
+- `produto`
+- `prazo`
+- `ar_solicitacao`
+- `ar_emissao`
+- `local_de_atendimento`
+- `endereco_do_local_de_atendimento`
+- `observacao_ultima_atualizacao`
+
+## 🔒 Análise de Constraints
+
+### ❌ Campos Obrigatórios (NOT NULL) - 1 campos
+- `id`
+
+### 🔧 Campos com Default - 1 campos
+- `id`: nextval('renovacao_geral_id_seq'::regclass)
