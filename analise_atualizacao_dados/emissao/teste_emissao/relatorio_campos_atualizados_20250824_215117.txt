@@ -1,0 +1,1993 @@
+RELATÓRIO DE ANÁLISE DE CAMPOS ATUALIZADOS
+==================================================
+Data/Hora: 24/08/2025 21:51:17
+
+RESUMO EXECUTIVO:
+--------------------
+📋 Total de protocolos analisados: 965
+🔄 Protocolos COM mudanças: 162 (16.8%)
+✅ Protocolos SEM mudanças: 803 (83.2%)
+📝 Total de mudanças de campo: 328
+
+CAMPOS MAIS ALTERADOS:
+-------------------------
+🔸 Valor do Boleto: 87 alterações (9.0%)
+🔸 Status do Certificado: 83 alterações (8.6%)
+🔸 Data Inicio Validade: 79 alterações (8.2%)
+🔸 Data Fim Validade: 79 alterações (8.2%)
+
+TIPOS DE MUDANÇA:
+--------------------
+📝 PREENCHIMENTO: 196 mudanças
+📝 ATUALIZACAO: 132 mudanças
+
+DETALHES DAS MUDANÇAS:
+-------------------------
+Protocolo: 1008624259
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570584
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 14:18:41
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570584
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 14:18:41
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570584
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008567440
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008615264
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 09:58:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008615264
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 09:58:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008615264
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008641784
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008589145
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 17:12:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008589145
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2027-08-14 17:12:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008589145
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008636772
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-17 11:12:54
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008636772
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-17 11:12:54
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008636772
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008573838
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-17 14:35:39
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008573838
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-16 14:35:39
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008573838
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008627790
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008642660
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 07:34:28
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008642660
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 07:34:28
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008642660
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008631787
+Campo: Status do Certificado (string)
+Valor atual: Emitido
+Valor novo: REVOGADO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008589341
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 12499
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632965
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 15:22:47
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632965
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 15:22:47
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632965
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008609717
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008578123
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-20 15:15:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008578123
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-20 15:15:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008578123
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008632205
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 09:04:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632205
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 09:04:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632205
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008627622
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 16:41:21
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627622
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 16:41:21
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627622
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008635008
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-22 10:46:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635008
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-22 10:46:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635008
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008591516
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 15:05:53
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008591516
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 15:05:53
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008591516
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008638314
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008619469
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593803
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-20 17:10:15
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593803
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-20 17:10:15
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593803
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008603447
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008585059
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 13:15:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008585059
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 13:15:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008585059
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008585059
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593519
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:50:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593519
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:50:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593519
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008610856
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008622318
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008574779
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008598648
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008592504
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-17 09:34:16
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008592504
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-17 09:34:16
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008592504
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008600685
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008548037
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008630458
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 17:28:14
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008630458
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 17:28:14
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008630458
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008617050
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 17:16:34
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008617050
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 17:16:34
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008617050
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008614643
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 13:38:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008614643
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 13:38:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008614643
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008568154
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593688
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008604874
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008518309
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008634156
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:55:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634156
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:55:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634156
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008638933
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:30:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008638933
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:30:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008638933
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008576178
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008614556
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 11:59:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008614556
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 11:59:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008614556
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008533174
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 13:55:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008533174
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-13 13:55:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008533174
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008604747
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008634353
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-18 10:25:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634353
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-18 10:25:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634353
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008565536
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 13:17:56
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008565536
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 13:17:56
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008565536
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008548907
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 15:56:49
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008548907
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 15:56:49
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008548907
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008548907
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008561294
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008567670
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:54:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008567670
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:54:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008567670
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008557302
+Campo: Status do Certificado (string)
+Valor atual: Emitido
+Valor novo: REVOGADO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008586271
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 13:42:32
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008586271
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 13:42:32
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008586271
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008586271
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008589194
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008545645
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008587622
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008618787
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008636750
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 12:40:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008636750
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 12:40:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008636750
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008598887
+Campo: Valor do Boleto (decimal)
+Valor atual: 3456.00
+Valor novo: 345.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008563276
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008635067
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 11:48:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635067
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 11:48:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635067
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008600642
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 13:26:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008600642
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-13 13:26:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008600642
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008600642
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008616148
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 13:22:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008616148
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 13:22:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008616148
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008565473
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 09:02:26
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008565473
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 09:02:26
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008565473
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008614307
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008601004
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008564473
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 75.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008617972
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008637897
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 19:26:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008637897
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 19:26:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008637897
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008585074
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634139
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-16 21:01:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634139
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-16 21:01:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008634139
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008637899
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008619368
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:56:05
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008619368
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:56:05
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008619368
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008585359
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627573
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 09:54:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627573
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 09:54:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627573
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008624610
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008569089
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008549682
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632827
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 11:14:10
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632827
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 11:14:10
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008632827
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595868
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008599512
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008638304
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 11:32:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008638304
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 11:32:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008638304
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008609346
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 11:40:09
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008609346
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 11:40:09
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008609346
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595332
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 16:07:06
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595332
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 16:07:06
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595332
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595332
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008598614
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 75.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008591158
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:42:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008591158
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-13 10:42:12
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008591158
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008580329
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008597372
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008635317
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 17:21:34
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635317
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 17:21:34
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635317
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008618360
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 14:47:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008618360
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 14:47:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008618360
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008613797
+Campo: Valor do Boleto (decimal)
+Valor atual: 2565.00
+Valor novo: 256.5
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008592968
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 17:01:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008592968
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 17:01:52
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008592968
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008616367
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008644028
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 14:37:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008644028
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 14:37:44
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008644028
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008593123
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 15:05:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593123
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 15:05:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008593123
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008548671
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631706
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-22 10:49:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631706
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-22 10:49:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631706
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008563994
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-16 16:50:35
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008563994
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-16 16:50:35
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008563994
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008633549
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-18 15:18:32
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008633549
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-18 15:18:32
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008633549
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008631537
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008643618
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:30:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008643618
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:30:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008643618
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008635873
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 16:00:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635873
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 16:00:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008635873
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008565837
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008580484
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008559178
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008625771
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 15:02:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008625771
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 15:02:59
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008625771
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008539184
+Campo: Valor do Boleto (decimal)
+Valor atual: 20900.00
+Valor novo: 209.00
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008580399
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008637848
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-23 17:08:04
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008637848
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-23 17:08:04
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008637848
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008621998
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 17:35:45
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008621998
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 17:35:45
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008621998
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008617690
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008627103
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 10:15:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627103
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 10:15:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008627103
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008627103
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008594011
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008566288
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624865
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 12:50:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624865
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 12:50:01
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624865
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008596000
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008627574
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570912
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008581689
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008637811
+Campo: Valor do Boleto (decimal)
+Valor atual: 900.00
+Valor novo: 90.0
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008642237
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 13:14:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008642237
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 13:14:19
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008642237
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008570954
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 11:52:08
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570954
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 11:52:08
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008570954
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008580163
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008584235
+Campo: Status do Certificado (string)
+Valor atual: Emitido
+Valor novo: REVOGADO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008591963
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008621510
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008553883
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 16:58:16
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008553883
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-18 16:58:16
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008553883
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: REVOGADO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008560759
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008555384
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 12:52:02
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008555384
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 12:52:02
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008555384
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008617963
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 15:50:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008617963
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 15:50:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008617963
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008607505
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 11:57:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008607505
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 11:57:00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008607505
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008626312
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 17:14:54
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008626312
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 17:14:54
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008626312
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008608874
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 15:41:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008608874
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 15:41:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008608874
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008555274
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 12:42:05
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008555274
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 12:42:05
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008555274
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008563035
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008597504
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595675
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 10:27:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595675
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 10:27:23
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595675
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595675
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1449
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008547975
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008565191
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 75.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008609178
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 79.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008587181
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008504080
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 185.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008608900
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-21 15:45:21
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008608900
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-21 15:45:21
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008608900
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008612922
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 11:32:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008612922
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 11:32:27
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008612922
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008488257
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 17:39:49
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008488257
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 17:39:49
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008488257
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008561237
+Campo: Status do Certificado (string)
+Valor atual: Emitido
+Valor novo: REVOGADO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008595159
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-18 15:25:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595159
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-18 15:25:38
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008595159
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008587661
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 15:47:42
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008587661
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2028-08-14 15:47:42
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008587661
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008587661
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008561168
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008606353
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 1899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624253
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-18 11:21:30
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624253
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-18 11:21:30
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008624253
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008575993
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 0.00
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631649
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 14:50:29
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631649
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 14:50:29
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008631649
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008602561
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-19 08:26:36
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008602561
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-19 08:26:36
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008602561
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008607317
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-22 11:39:36
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008607317
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-22 11:39:36
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008607317
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008625585
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-14 17:24:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008625585
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-14 17:24:33
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008625585
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008617907
+Campo: Valor do Boleto (decimal)
+Valor atual: 2466.00
+Valor novo: 246.6
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008573275
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-15 08:30:25
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008573275
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-15 08:30:25
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008573275
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008620159
+Campo: Data Inicio Validade (datetime)
+Valor atual: None
+Valor novo: 2025-08-18 08:56:28
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008620159
+Campo: Data Fim Validade (datetime)
+Valor atual: None
+Valor novo: 2026-08-18 08:56:28
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008620159
+Campo: Status do Certificado (string)
+Valor atual: Pendente
+Valor novo: EMITIDO
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008630464
+Campo: Valor do Boleto (decimal)
+Valor atual: 1233.00
+Valor novo: 123.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008580440
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
+Protocolo: 1008585969
+Campo: Valor do Boleto (decimal)
+Valor atual: None
+Valor novo: 21899
+Tipo: PREENCHIMENTO
+----------------------------------------
+Protocolo: 1008630794
+Campo: Valor do Boleto (decimal)
+Valor atual: 1773.00
+Valor novo: 177.3
+Tipo: ATUALIZACAO
+----------------------------------------
